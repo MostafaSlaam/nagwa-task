@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NagwaTask</string>
+    <string name="no_network_connectivity">No Network Connectivity</string>
+    <string name="try_again">Try Again</string>
+    <string name="fake_data">Fake Data</string>
+    <string name="error">Error</string>
+    <string name="view">View</string>
+    <string name="download">Download</string>
+</resources>
